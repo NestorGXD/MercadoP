@@ -1,0 +1,9 @@
+RUMBO VIAJES (Next.js + Stripe + Mercado Pago, modo prueba)
+
+1. Abre la carpeta en tu terminal (o VS Code).
+2. Ejecuta:  npm install
+3. Abre el archivo .env.local y pega tus llaves de PRUEBA.
+4. Ejecuta:  npm run dev
+5. Abre http://localhost:3000
+
+Si cambias .env.local, detén el servidor (Ctrl+C) y vuelve a correr npm run dev.
